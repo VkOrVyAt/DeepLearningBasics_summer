@@ -1,14 +1,10 @@
-# Виртуальное окружение
 venv/
 venv310/
 
-# Временные файлы Python
 __pycache__/
 *.pyc
 
-# Данные и кэш
 *.ipynb_checkpoints/
 *.log
 *.pt
 *.pth
-data/
