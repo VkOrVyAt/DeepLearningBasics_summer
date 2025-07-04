@@ -1,0 +1,8 @@
+No Reg: Train Acc=0.9925, Test Acc=0.9793, Time=137.11s, Params=242762
+Dropout 0.1: Train Acc=0.9880, Test Acc=0.9837, Time=139.47s, Params=242762
+Dropout 0.3: Train Acc=0.9768, Test Acc=0.9792, Time=150.99s, Params=242762
+Dropout 0.5: Train Acc=0.9537, Test Acc=0.9739, Time=153.35s, Params=242762
+BatchNorm: Train Acc=0.9921, Test Acc=0.9800, Time=144.09s, Params=243658
+Dropout+BN: Train Acc=0.9728, Test Acc=0.9840, Time=140.50s, Params=243658
+L2 0.01: Train Acc=0.9578, Test Acc=0.9583, Time=139.22s, Params=242762
+Adaptive Dropout: Test Acc=0.9717

@@ -1,0 +1,10 @@
+Depth: 1, Train Acc: 0.9930, Test Acc: 0.9783, Time: 129.49s, Params: 101770
+Depth: 2, Train Acc: 0.9919, Test Acc: 0.9755, Time: 134.52s, Params: 118282
+Depth: 3, Train Acc: 0.9920, Test Acc: 0.9787, Time: 135.82s, Params: 134794
+Depth: 5, Train Acc: 0.9891, Test Acc: 0.9750, Time: 139.78s, Params: 167818
+Depth: 7, Train Acc: 0.9884, Test Acc: 0.9779, Time: 143.10s, Params: 200842
+Depth: 1, Train Acc: 0.9737, Test Acc: 0.9778, Time: 134.13s, Params: 102026, Dropout+BN
+Depth: 2, Train Acc: 0.9705, Test Acc: 0.9800, Time: 136.26s, Params: 118794, Dropout+BN
+Depth: 3, Train Acc: 0.9668, Test Acc: 0.9785, Time: 141.29s, Params: 135562, Dropout+BN
+Depth: 5, Train Acc: 0.9594, Test Acc: 0.9774, Time: 147.67s, Params: 169098, Dropout+BN
+Depth: 7, Train Acc: 0.9524, Test Acc: 0.9768, Time: 155.46s, Params: 202634, Dropout+BN

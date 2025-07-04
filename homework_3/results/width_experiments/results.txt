@@ -1,0 +1,5 @@
+Widths: [64, 32, 16], Train Acc: 0.9873, Test Acc: 0.9743, Time: 140.36s, Params: 53018
+Widths: [256, 128, 64], Train Acc: 0.9930, Test Acc: 0.9819, Time: 152.14s, Params: 242762
+Widths: [1024, 512, 256], Train Acc: 0.9934, Test Acc: 0.9847, Time: 158.86s, Params: 1462538
+Widths: [2048, 1024, 512], Train Acc: 0.9924, Test Acc: 0.9767, Time: 140.83s, Params: 4235786
+Best Grid Config: [512, 128, 128], Acc: 0.9790
